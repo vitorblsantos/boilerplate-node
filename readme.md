@@ -1,4 +1,4 @@
-# SBT News - Boilerplate Node
+# Boilerplate Node
 
 ## Table of Contents
 - [Dependencies](#dependencies)
