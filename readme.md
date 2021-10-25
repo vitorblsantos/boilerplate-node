@@ -1,4 +1,4 @@
-# SBT News - RSS Generator
+# SBT News - Boilerplate Node
 
 ## Table of Contents
 - [Dependencies](#dependencies)
