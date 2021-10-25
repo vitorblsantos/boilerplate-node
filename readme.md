@@ -28,8 +28,8 @@ Clone these template, install dependencies and be happy:
 
 ## Support
 
-Please [open an issue](https://github.com/tvsbt/sbt-news-rss/issues/new) for support.
+Please [open an issue](https://github.com/tvsbt/boilerplate-node/issues/new) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/tvsbt/sbt-news-rss/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/tvsbt/boilerplate-node/compare/).
