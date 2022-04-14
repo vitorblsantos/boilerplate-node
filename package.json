@@ -1,7 +1,7 @@
 {
   "author": "visantos@sbt.com.br",
   "bugs": {
-    "url": "https://github.com/tvsbt/sbt-news-rss/issues"
+    "url": "https://github.com/vitorblsantos/boilerplate-node/issues"
   },
   "description": "SBT News RSS generator",
   "dependencies": {
@@ -24,7 +24,7 @@
     "standard": "^16.0.4",
     "sucrase": "^3.20.3"
   },
-  "homepage": "https://github.com/tvsbt/sbt-news-rss#readme",
+  "homepage": "https://github.com/vitorblsantos/boilerplate-node#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -39,7 +39,7 @@
   "private": "true",
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:tvsbt/sbt-news-rss.git"
+    "url": "git+git@github.com:vitorblsantos/boilerplate-node.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development concurrently --kill-others-on-fail \"nodemon app/server\"",
