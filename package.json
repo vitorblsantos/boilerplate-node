@@ -35,7 +35,7 @@
     "*.js": "eslint"
   },
   "main": "./app/server.js",
-  "name": "sbt-news-rss",
+  "name": "boilerplate-node",
   "private": "true",
   "repository": {
     "type": "git",
