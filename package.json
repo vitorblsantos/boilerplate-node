@@ -3,7 +3,7 @@
   "bugs": {
     "url": "https://github.com/vitorblsantos/boilerplate-node/issues"
   },
-  "description": "SBT News RSS generator",
+  "description": "Boilerplate Node 2022",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
